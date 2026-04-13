@@ -1,0 +1,6 @@
+[2026-04-13T04:52:00Z] === AST ITERATION 2 START | repo=jaraco/keyring sha=38c04013 ===
+[2026-04-13T04:52:00Z] [iter=2] PHASE START: ast repo=jaraco/keyring sha=38c04013
+[2026-04-13T04:52:00Z] [iter=2] AST SKIPPED — chunks already exist count=1 dir=/home/runner/work/forx/forx/storage/aggregate/ast/38c040133559682902f25fe96496756ee6849820
+[2026-04-13T04:52:00Z] [iter=2] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/38c040133559682902f25fe96496756ee6849820/.complete
+[2026-04-13T04:52:00Z] [iter=2] PHASE END: ast elapsed_s=0 elapsed_min=0.0
+[2026-04-13T04:52:00Z] [iter=2] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
